@@ -28,6 +28,8 @@ msbuild.wrn
 .idea
 *.iml
 .vs
+#test
 .vscode
 .gradle
 CI/variables.yml
+
